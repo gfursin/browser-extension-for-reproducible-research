@@ -3,7 +3,7 @@
 
   "manifest_version": 2,
   "name": "Collective Knowledge: a community effort to enable collaborative and reproducible computational science",
-  "version": "1.6",
+  "version": "2.0",
   "homepage_url": "https://cKnowledge.io",
 
   "icons": {
