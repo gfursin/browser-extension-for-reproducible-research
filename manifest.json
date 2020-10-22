@@ -1,0 +1,38 @@
+{
+  "description": "Find reproducible research papers with portable workflows, reusable artifacts and research code",
+
+  "manifest_version": 2,
+  "name": "Collective Knowledge: a community effort to enable collaborative and reproducible computational science",
+  "version": "1.6",
+  "homepage_url": "https://cKnowledge.io",
+
+  "icons": {
+    "48": "icons/ck-logo-48.png",
+    "96": "icons/ck-logo-96.png"
+  },
+
+  "background": {
+    "scripts": ["js/background.js", "js/cr.js", "js/purify.min.js"]
+  },
+
+  "web_accessible_resources": [
+    "icons/*.png"
+  ],
+  
+  "page_action": {
+    "default_icon": "icons/status0.png",
+    "browser_style": true,
+    "default_title": "Collective Knowledge: a community effort to enable collaborative and reproducible computational science",
+    "default_popup": "html/cr.html"
+  },
+  
+  "permissions": [
+    "https://arxiv.org/*",
+    "https://paperswithcode.com/*",
+    "https://paperswithcode.com/*",
+    "https://scholar.google.com/*",
+    "https://cknowledge.io/api/v1",
+    "activeTab",
+    "tabs"
+  ]
+}

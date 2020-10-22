@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+
+<html>
+
+<!--
+ Copyright 2020 Grigori Fursin
+-->
+
+ <head>
+  <meta charset="utf-8">
+
+  <script src="../js/jquery-3.5.0.min.js"></script>
+
+  <script src="../js/cr.js"></script>
+
+  <!-- Sanitize HTML to avoid malicious code -->
+  <script src="../js/purify.min.js"></script>
+
+  <script src="../js/background.js"></script>
+
+  <script src="../js/status.js"></script>
+
+  <link href="../css/bootstrap.min.css" rel="stylesheet">
+  <script src="../js/bootstrap.min.js"></script>
+
+  <link href="../css/bootstrap4-toggle.min.css" rel="stylesheet">
+  <script src="../js/bootstrap4-toggle.min.js"></script>
+
+  <link href="../css/cr.css" rel="stylesheet">
+ </head>
+
+
+ <body style="width:350px;padding:10px;">
+   <center>
+    <b>Collective Knowledge: a community effort to enable collaborative and reproducible computational science</b><br>
+
+    <div style="padding:5px;"></div>
+
+    <input id="cr_status" type="checkbox" checked data-toggle="toggle" data-on="&nbsp;&nbsp;&nbsp;&nbsp;Enabled" data-off="Disabled">
+    <hr>
+    <small>
+    <i>
+    When you enable this add-on, only allowed research URLs from your browser tab (GitHub, ArXiv, cKnowledge, PapersWithCode, etc) 
+    will be anonymously sent to the <a href="https://cKnowledge.io">open cKnowledge.io portal</a>
+    to retrieve related research papers, state-of-the-art scoreboards, portable workflows and reusable artifacts.
+    Note that we do not collect, use, store, and share or disclose information about people!<br>
+    </i>
+    </small>
+   </center>
+
+   <div id="cr_dashboard" style="padding:10px;">
+    <hr>
+    <b>
+    This URL is blocked for your privacy and was not sent to the <a href="https://cKnowledge.io">cKnowledge.io</a>! 
+    Please <a href="https://cKnowledge.io/@gfursin">contact us</a> if you want to unblock this URL!
+    </b>
+   </div>
+
+ </body>
+</html>

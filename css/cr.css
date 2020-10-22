@@ -1,0 +1,31 @@
+/* Copyright 2020 Grigori Fursin */
+
+#cr_box
+{
+ width:99%; 
+ background-color:#E4E5E6;
+ color:#000000;
+ text-align:left;
+ padding:4px;
+ margin:4px;
+
+ border: 1px solid #AFAFAF;
+ -moz-border-radius: 4px;
+ -webkit-border-radius: 4px;
+ border-radius: 4px;
+ background-color: #FFFFFF;
+ border-spacing: 0px;
+
+ -webkit-box-shadow: 2px 2px 4px 1px #bbb;
+ box-shadow: 2px 2px 4px 1px #bbb;
+}
+
+#cr_space4
+{
+ padding:4px 0px 0px 0px;
+}
+
+#cr_space8
+{
+ padding:8px 0px 0px 0px;
+}
