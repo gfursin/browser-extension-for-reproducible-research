@@ -2,6 +2,10 @@
 
 **Purpose:** Finding or sharing knowledge about research papers, code, portable workflows and reusable artifacts for a given web page.
 
+**Link:** https://addons.mozilla.org/en-US/firefox/addon/collective-knowledge
+
+**Notes:**
+
 This browser extension helps you to find if a given web page has related research papers,
 code, portable workflows, state-of-the-art scoreboards, and reusable DevOps components 
 for AI, ML and other emerging technologies. 
