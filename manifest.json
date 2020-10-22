@@ -2,7 +2,7 @@
   "description": "Find reproducible research papers with portable workflows, reusable artifacts and research code",
 
   "manifest_version": 2,
-  "name": "Collective Knowledge: a community effort to enable collaborative and reproducible computational science",
+  "name": "Collective Knowledge",
   "version": "2.0",
   "homepage_url": "https://cKnowledge.io",
 
@@ -27,10 +27,6 @@
   },
   
   "permissions": [
-    "https://arxiv.org/*",
-    "https://paperswithcode.com/*",
-    "https://paperswithcode.com/*",
-    "https://scholar.google.com/*",
     "https://cknowledge.io/api/v1",
     "activeTab",
     "tabs"
