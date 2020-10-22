@@ -1,4 +1,6 @@
-# CK addon for FireFox to exchange knowledge about research papers, code, portable workflows and reusable artifacts
+# CK addon for FireFox 
+
+**Purpose:** Finding or sharing knowledge about research papers, code, portable workflows and reusable artifacts for a given web page.
 
 This browser extension helps you to find if a given web page has related research papers,
 code, portable workflows, state-of-the-art scoreboards, and reusable DevOps components 
@@ -13,10 +15,10 @@ We regularly index 1M+ URLs from Arxiv, GitHub, GitLab, paperswithcode, Zenodo,
 ACM DL, and continue adding new links weekly. You can also use our search engine 
 at [cKnowledge.io](https://cKnowledge.io) .
 
-Please, navigate to the [MobileNets ArXiv paper](https://arxiv.org/abs/1704.04861) to test this extension.
+**Test:** Please, navigate to the [MobileNets ArXiv paper](https://arxiv.org/abs/1704.04861) to test this extension.
 
-GDPR compliant privacy policy: https://cknowledge.io/privacy-for-browser-extension .
+**GDPR compliant privacy policy:** https://cknowledge.io/privacy-for-browser-extension .
 
-Author: [Grigori Fursin](https://cKnowledge.io/@gfursin)
+**Author:** [Grigori Fursin](https://cKnowledge.io/@gfursin)
 
-License: Apache2
+**License:** Apache2
