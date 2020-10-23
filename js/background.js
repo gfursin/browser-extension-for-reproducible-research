@@ -61,7 +61,7 @@ const allowed_urls=[
   "yann.lecun.com"
 ];
 
-var CR_BROWSER='mozilla';
+var CR_BROWSER='chrome';
 
 async function initializePageAction(tab) {
 

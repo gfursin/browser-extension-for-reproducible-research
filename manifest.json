@@ -1,9 +1,9 @@
 {
-  "description": "Find reproducible research papers with portable workflows, reusable artifacts and research code",
+  "description": "Annotate web pages with related research papers, code, reproducible results, scoreboards, portable workflows and reusable artifacts.",
 
   "manifest_version": 2,
   "name": "Collective Knowledge",
-  "version": "2.0",
+  "version": "2.1",
   "homepage_url": "https://cKnowledge.io",
 
   "icons": {
@@ -22,7 +22,7 @@
   "page_action": {
     "default_icon": "icons/status0.png",
     "browser_style": true,
-    "default_title": "Collective Knowledge: a community effort to enable collaborative and reproducible computational science",
+    "default_title": "Collective Knowledge: exchange knowledge about research papers, code, reproducible results, scoreboards, portable workflows and reusable artifacts",
     "default_popup": "html/cr.html"
   },
   
