@@ -185,7 +185,7 @@ async function initializePageAction(tab) {
       // Visualize HTML (remove malicious code)
       if (cd && html!="") {
         /* Sanitize HTML to avoid malicious code */
-        cd.innerHTML=DOMPurify.sanitize(html);
+        cd.innerHTML=DOMPurify.sanitize(html, {ADD_ATTR:['target']});
       }
    }
 }
