@@ -4,7 +4,7 @@
 
 **Notes:**
 
-This browser extension helps you to to annotate web pages with related research papers, 
+This browser extension helps you to annotate web pages with related research papers, 
 code, reproducible results, scoreboards, portable workflows and reusable artifacts
 for AI, ML, Systems and other emerging technologies. 
 
