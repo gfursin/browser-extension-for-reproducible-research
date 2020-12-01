@@ -1,8 +1,11 @@
-# CK browser add-on to annotate web pages with related research papers, code, reproducible results, scoreboards, portable workflows and reusable artifacts.
+# Browser extension to annotate web pages with related research papers, code, reproducible results, scoreboards, portable workflows and reusable artifacts.
 
-**Links:** https://addons.mozilla.org/en-US/firefox/addon/collective-knowledge
+## Links
+* [https://chrome.google.com/webstore/detail/collective-knowledge/mlemchkmighdglpgfchopcjoegbnenid](Chrome extension)
+* [https://addons.mozilla.org/en-US/firefox/addon/collective-knowledge](Firefox extension)
 
-**Notes:**
+
+## Notes
 
 This browser extension helps you to annotate web pages with related research papers, 
 code, reproducible results, scoreboards, portable workflows and reusable artifacts
@@ -20,14 +23,18 @@ ACM DL, and continue adding new research links weekly.
 The red neuron indicates that a given web page is not annotated.
 The blue neuron indicates that there is shared knowledge for this web page.
 
-**Test:** 
-Please, navigate to the [MobileNets ArXiv paper](https://arxiv.org/abs/1704.04861) 
-and [MLPerf inference benchmark GitHub](https://github.com/mlperf/inference)
+## Test
+Please, navigate to the [MobileNets ArXiv paper]( https://arxiv.org/abs/1704.04861 ),
+[MLPerf inference ArXiv paper]( https://arxiv.org/abs/1911.02549v2 ) 
+and [MLPerf inference benchmark GitHub]( https://github.com/mlcommons/inference )
 to test this extension. You click on the blue neuron of this extension
 to see related code, artifacts and results.
 
-**GDPR compliant privacy policy:** https://cknowledge.io/privacy-for-browser-extension .
+## GDPR compliant privacy policy
+* https://cknowledge.io/privacy-for-browser-extension
 
-**Author:** [Grigori Fursin](https://cKnowledge.io/@gfursin)
+## Authors
+* [Grigori Fursin](https://cKnowledge.io/@gfursin)
 
-**License:** Apache 2.0
+## License
+Apache 2.0
