@@ -1,9 +1,8 @@
 # Browser extension to annotate web pages with related research papers, code, reproducible results, scoreboards, portable workflows and reusable artifacts.
 
 ## Links
-* [https://chrome.google.com/webstore/detail/collective-knowledge/mlemchkmighdglpgfchopcjoegbnenid](Chrome extension)
-* [https://addons.mozilla.org/en-US/firefox/addon/collective-knowledge](Firefox extension)
-
+* [Chrome extension](https://chrome.google.com/webstore/detail/collective-knowledge/mlemchkmighdglpgfchopcjoegbnenid)
+* [Firefox extension](https://addons.mozilla.org/en-US/firefox/addon/collective-knowledge)
 
 ## Notes
 
@@ -30,11 +29,11 @@ and [MLPerf inference benchmark GitHub]( https://github.com/mlcommons/inference 
 to test this extension. You click on the blue neuron of this extension
 to see related code, artifacts and results.
 
-## GDPR compliant privacy policy
-* https://cknowledge.io/privacy-for-browser-extension
+## Privacy policy
+* [GDPR compliant](https://cknowledge.io/privacy-for-browser-extension)
 
 ## Authors
 * [Grigori Fursin](https://cKnowledge.io/@gfursin)
 
 ## License
-Apache 2.0
+* Apache 2.0
